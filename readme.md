@@ -29,4 +29,4 @@ npm run build
 
 You can view a live demonstration of the Animated Galaxy Visualization by visiting the following link:
 
-[![Animated Galaxy Visualization](assets/thumbnail.png)](assets/demo.mp4)
+[![Animated Galaxy Visualization](assets/thumbnail.png)](assets/video.mp4)
